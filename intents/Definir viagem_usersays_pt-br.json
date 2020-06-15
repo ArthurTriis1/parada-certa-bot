@@ -1,0 +1,450 @@
+[
+  {
+    "id": "0cba9874-3539-41d1-985b-3d6edc8382de",
+    "data": [
+      {
+        "text": "vou de ",
+        "userDefined": false
+      },
+      {
+        "text": "são paulo,",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "manaus",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " às ",
+        "userDefined": false
+      },
+      {
+        "text": "8h",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ee3268e-53c0-4103-92b0-6ec565b1f394",
+    "data": [
+      {
+        "text": "vou de ",
+        "userDefined": false
+      },
+      {
+        "text": "são paulo",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " pra ",
+        "userDefined": false
+      },
+      {
+        "text": "manaus",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "18hrs",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cff27ff-ca0d-4099-8b56-7844338e7a50",
+    "data": [
+      {
+        "text": "São Paulo",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Manaus",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "8h",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a02481f6-a338-4549-baf6-f1f33584ffbf",
+    "data": [
+      {
+        "text": "sairei de ",
+        "userDefined": false
+      },
+      {
+        "text": "Recife",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": ", vou cara ",
+        "userDefined": false
+      },
+      {
+        "text": "Caruaru",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "18:30",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4c8258c-9dce-487c-89f5-746d0d795e58",
+    "data": [
+      {
+        "text": "vou de ",
+        "userDefined": false
+      },
+      {
+        "text": "recife",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " pra ",
+        "userDefined": false
+      },
+      {
+        "text": "olinda",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "13:52",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46d72ad8-8fce-4c71-b4b9-d1de2f3dc5c2",
+    "data": [
+      {
+        "text": "recife",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacarepagua",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " a partir das ",
+        "userDefined": false
+      },
+      {
+        "text": "16:35",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8a1fc15-1648-4890-b2d0-77dd1e15a352",
+    "data": [
+      {
+        "text": "Venho de ",
+        "userDefined": false
+      },
+      {
+        "text": "Minas Gerais",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " até ",
+        "userDefined": false
+      },
+      {
+        "text": "Catende",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "8h",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3f594a5-157e-4214-8db4-285a2328509a",
+    "data": [
+      {
+        "text": "Vou da ",
+        "userDefined": false
+      },
+      {
+        "text": "Paraiba",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " pro Rio ",
+        "userDefined": false
+      },
+      {
+        "text": "Grande do Sul",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "8hrs",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad14dab0-3a23-49cc-a837-8ecefe9bfb14",
+    "data": [
+      {
+        "text": "Viajar de ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaboatão",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ate a ",
+        "userDefined": false
+      },
+      {
+        "text": "Paraiba",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " saindo as ",
+        "userDefined": false
+      },
+      {
+        "text": "08 horas",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e02ae07-20ab-4ac0-bbc1-16f19b180709",
+    "data": [
+      {
+        "text": "Vou a partir do ",
+        "userDefined": false
+      },
+      {
+        "text": "Rio de Janeiro",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "Brasilia",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "19hrs",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2321ac5-cfa5-41e9-8452-0a0a3bc20da6",
+    "data": [
+      {
+        "text": "Vou de ",
+        "userDefined": false
+      },
+      {
+        "text": "Manaus",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "São Paulo",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "15:57",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dac0eef-be1a-4be0-af80-a52464047bb8",
+    "data": [
+      {
+        "text": "Vou de ",
+        "userDefined": false
+      },
+      {
+        "text": "Recife",
+        "alias": "origem",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " até ",
+        "userDefined": false
+      },
+      {
+        "text": "Maceió",
+        "alias": "destino",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " indo de ",
+        "userDefined": false
+      },
+      {
+        "text": "19:37 horas",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

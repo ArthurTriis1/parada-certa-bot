@@ -1,0 +1,65 @@
+{
+  "id": "5025f881-fd26-431f-9f9c-2ecea7844210",
+  "parentId": "f4c1ce41-22a3-4a70-9767-d8bc672ee32f",
+  "rootParentId": "f4c1ce41-22a3-4a70-9767-d8bc672ee32f",
+  "name": "Definir viagem - yes",
+  "auto": true,
+  "contexts": [
+    "Definirviagem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Definirviagem.Definirviagem-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf89ac7e-716e-4e33-b8e3-4c77164dbbd1",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Massa!",
+            "Show!",
+            "Certo!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "#Definirviagem-followup.origem #Definirviagem-followup.destino"
+        },
+        {
+          "type": 4,
+          "lang": "pt-br",
+          "condition": "",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

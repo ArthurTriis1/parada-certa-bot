@@ -1,0 +1,9 @@
+{
+  "id": "0eb85336-5b2c-451c-a73a-b7bcaf023a14",
+  "name": "Partida",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

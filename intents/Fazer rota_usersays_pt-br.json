@@ -1,0 +1,135 @@
+[
+  {
+    "id": "f436b634-5e63-4a8b-915d-f60618576c8e",
+    "data": [
+      {
+        "text": "rota",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "981bb8c6-6f6d-46af-9a56-a4845dfb4830",
+    "data": [
+      {
+        "text": "traçar rota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e34054b-1779-45fb-97a8-a8bc11dde554",
+    "data": [
+      {
+        "text": "organizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36afbed5-7da5-4ff1-903e-61eb317a9286",
+    "data": [
+      {
+        "text": "planejamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e24de88a-d1a7-4193-8830-3b52fc70a73f",
+    "data": [
+      {
+        "text": "Planejar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bdca6fc-f7a3-4b8c-9a51-6c8cb641e441",
+    "data": [
+      {
+        "text": "Encontrar viagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40c48c2d-0887-4d37-af04-d4afe6840455",
+    "data": [
+      {
+        "text": "Criar viagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36abe2c8-173f-475c-ade0-e355d8110135",
+    "data": [
+      {
+        "text": "Planejar viagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dad9ae1-e6c5-4e8e-9ea6-25d4134247b0",
+    "data": [
+      {
+        "text": "Ver caminho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0279019-8ece-475b-8cd9-c77874e1f12b",
+    "data": [
+      {
+        "text": "Gerar rota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1315519-8402-4cd6-858d-60eb12a9b2eb",
+    "data": [
+      {
+        "text": "Fazer rota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

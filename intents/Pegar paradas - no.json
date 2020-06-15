@@ -1,0 +1,37 @@
+{
+  "id": "cad117f9-cba3-4712-a7d0-db4f3bbc6b59",
+  "parentId": "0a03f973-0aac-4ba9-8b08-d923ebbf3033",
+  "rootParentId": "0a03f973-0aac-4ba9-8b08-d923ebbf3033",
+  "name": "Pegar paradas - no",
+  "auto": true,
+  "contexts": [
+    "Local-followup",
+    "Pegarparadas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pegarparadas.Pegarparadas-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

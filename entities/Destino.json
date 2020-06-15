@@ -1,0 +1,9 @@
+{
+  "id": "146f1a87-74a2-41ec-ad4f-41992e415116",
+  "name": "Destino",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

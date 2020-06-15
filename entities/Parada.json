@@ -1,0 +1,9 @@
+{
+  "id": "19f0f795-8ef0-486e-b398-00bde099d120",
+  "name": "Parada",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

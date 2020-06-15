@@ -1,0 +1,92 @@
+{
+  "id": "f4c1ce41-22a3-4a70-9767-d8bc672ee32f",
+  "name": "Definir viagem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Definirviagem-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "64446c52-0e4f-4d03-bce3-ed323f9b090c",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "origem",
+          "value": "$origem",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual é seu ponto de partida?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "6963c594-4d3e-4096-951a-8c9ada4b1ea5",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "destino",
+          "value": "$destino",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual o seu destino?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "df02c934-650c-4878-8626-cc6f244b4ca9",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time.original",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual o horário que você sairá?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Você vai então de $origem até $destino a partir das $time?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

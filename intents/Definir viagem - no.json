@@ -1,0 +1,36 @@
+{
+  "id": "31c4f8b7-e4c3-48cc-8f77-282efab79bbc",
+  "parentId": "f4c1ce41-22a3-4a70-9767-d8bc672ee32f",
+  "rootParentId": "f4c1ce41-22a3-4a70-9767-d8bc672ee32f",
+  "name": "Definir viagem - no",
+  "auto": true,
+  "contexts": [
+    "Definirviagem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Definirviagem.Definirviagem-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Eita, te peço perdão, poderia então repetir, por favor, seu ponto de partida e seu destino?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
